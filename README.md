@@ -1,2 +1,2 @@
 # channel9
-MSDN Channel 9 App
+My estimate for the realization of this project is five hours
